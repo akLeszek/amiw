@@ -25,3 +25,7 @@ a:visited {
 a:hover {
     text-decoration: underline;
 }
+.selected {
+    text-decoration: underline;
+    font-weight: bold;
+}
